@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="flex items-center m-auto max-w-max p-8 mt-3">
-            <router-link  to="/"><h1 class="text-4xl tracking-widest">VARYESTRAW</h1></router-link> 
+            <router-link  to="/"><h1 class="text-4xl" style="letter-spacing: 0.25em;">VARYESTRAW</h1></router-link> 
         </div>
 
         <div id="nav">
